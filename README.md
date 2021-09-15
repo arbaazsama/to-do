@@ -1,2 +1,2 @@
-# to-do.github.io
+# to-do
 To-Do List Personal
